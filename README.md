@@ -8,5 +8,5 @@ This is a program I wrote in my second year of university which was part of a GU
 * Utilising JAVA Swings and Frames
 * Utilised JAVA Threads
 
-###Constraints
-Flash incompatible.
+##Constraints
+* Flash incompatible.
