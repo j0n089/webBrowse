@@ -4,4 +4,4 @@ This is a program I wrote in my second year of university which was part of a GU
 It was to write a working web borwser.
 
 ##Constraints
-Flash compatible.
+Flash incompatible.
