@@ -1,7 +1,12 @@
 #Web Browse
 
 This is a program I wrote in my second year of university which was part of a GUI module. 
-It was to write a working web borwser.
 
-##Constraints
+##Design Objectives
+
+Written in JAVA.
+Utilising JAVA Swings and Frames
+Utilised JAVA Threads
+
+###Constraints
 Flash incompatible.
