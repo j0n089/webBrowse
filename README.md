@@ -4,7 +4,7 @@ This is a program I wrote in my second year of university which was part of a GU
 
 ##Design Objectives
 
-Written in JAVA.
+<br>Written in JAVA. />
 Utilising JAVA Swings and Frames
 Utilised JAVA Threads
 
